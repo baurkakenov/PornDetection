@@ -1,1 +1,1 @@
-Kaggle competition kaggle.com/c/introml2019-1
+Kaggle competition:  kaggle.com/c/introml2019-1
